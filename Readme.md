@@ -23,11 +23,11 @@ install atau buka command prompt kalian di handphone atau laptop/pc. setelah mas
 
 ```bash
 pkg install git
-git clone https://github.com/candradwicahyo/read-more.git
+git clone https://github.com/candradwicahyo/read-more-and-less.git
 ```
 
 ## preview dan demo 
 
-![preview](https://github.com/candradwicahyo/read-more/blob/master/image.jpg)
+![preview](https://github.com/candradwicahyo/read-more-and-less/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/read-more) untuk mencoba demo 
+[tekan link ini](https://candradwicahyo.github.io/read-more-and-less) untuk mencoba demo 
